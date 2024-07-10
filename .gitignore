@@ -1,0 +1,6 @@
+*-cert.pem
+*-private.pem.key
+*-public.pem.key
+*.pem
+*.key
+*-pem.crt
