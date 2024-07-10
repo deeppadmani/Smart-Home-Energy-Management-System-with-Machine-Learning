@@ -3,4 +3,4 @@
 *-public.pem.key
 *.pem
 *.key
-*-pem.crt
+*pem.crt
